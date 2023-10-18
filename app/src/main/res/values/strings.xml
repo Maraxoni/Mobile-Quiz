@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="correct_answer">Brawo! Wspaniale!</string>
+    <string name="incorrect_answer">Zla odpowiedz!</string>
+
+    <!-- Pytania -->
+    <string name="q_1">Ulm był częścią Świętego Cesarstwa Rzymskiego.</string>
+    <string name="q_2">Austria w XVIII wieku była protestancka.</string>
+    <string name="q_3">Pierwszy Samolot skonstruował Polak.</string>
+    <string name="q_4">1939 jest jedyną datą rozpoczęcia drugiej wojny światowej.</string>
+    <string name="q_5">Wynalazcą bomby atomowej był Amerykanin.</string>
+</resources>
