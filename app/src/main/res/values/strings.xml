@@ -4,6 +4,9 @@
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
 
+    <string name="button_result">Zagraj jeszcze raz</string>
+    <string name="result">5/5</string>
+
     <string name="correct_answer">Brawo! Wspaniale!</string>
     <string name="incorrect_answer">Zla odpowiedz!</string>
 

@@ -9,13 +9,13 @@ public class Question {
         this.trueAnswer = trueAnswer;
     }
 
-    int getQuestionId(){
+    int getQuestionId() {
         return questionId;
     }
-    boolean isTrueAnswer(){
+
+    boolean isTrueAnswer() {
         return trueAnswer;
     }
-
 
 
 }
