@@ -15,3 +15,5 @@ D
 app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
 d
 4app/src/main/java/com/example/quiz/MainActivity.java,e\c\ec099dceb8293364939a7c0ccfa4c1dbc81ddc8b
+_
+/app/src/main/java/com/example/quiz/Results.java,9\9\9948d6a6b63105f41aedf568d28fc81f3fb9305f
